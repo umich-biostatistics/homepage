@@ -1,0 +1,3 @@
+[submodule "umich-biostatistics.github.io"]
+	path = umich-biostatistics.github.io
+	url = https://github.com/umich-biostatistics/umich-biostatistics.github.io.git
